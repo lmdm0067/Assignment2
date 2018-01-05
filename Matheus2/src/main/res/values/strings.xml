@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatheusAssign11</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Home</item>
+        <item>Matheus</item>
+        <item>Almeida</item>
+        <item>Settings</item>
+    </string-array>
+</resources>
